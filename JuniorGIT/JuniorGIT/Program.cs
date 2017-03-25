@@ -10,8 +10,8 @@ namespace JuniorGIT
     {
         static void Main(string[] args)
         {
-            int a = 5;
-            Console.Write(a);
+            int mojaZmienna = 5;
+            Console.Write(mojaZmienna);
 
             Console.ReadKey();
         }
