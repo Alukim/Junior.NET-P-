@@ -10,6 +10,7 @@ namespace JuniorGIT
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
